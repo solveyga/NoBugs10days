@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9076f1a-0ffe-459b-ba70-52b915a87479" name="Changes" comment="complete Point task">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task_1/Clock/Clock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task_1/Clock/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task_1/Clock/Readable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task_1/Book/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task_1/Book/Main.java" afterDir="false" />
+    <list default="true" id="b9076f1a-0ffe-459b-ba70-52b915a87479" name="Changes" comment="complete Clock task">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task_1/Car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task_1/Car/Drivable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task_1/Car/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +53,13 @@
       <recent name="org.example.task_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.org.example.task_1.Clock.Main">
-    <configuration name="org.example.task_1.BankAccount.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.task_1.BankAccount.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.task_1.Car.Main" />
       <module name="homework1.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.task_1.BankAccount.*" />
+          <option name="PATTERN" value="org.example.task_1.Car.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.org.example.task_1.Clock.Main" />
         <item itemvalue="Application.org.example.task_1.Point.Main" />
         <item itemvalue="Application.org.example.task_1.Student.Main" />
         <item itemvalue="Application.org.example.task_1.Book.Main" />
-        <item itemvalue="Application.org.example.task_1.BankAccount.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726402424866</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="complete Clock task">
+      <created>1726404058200</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726404058200</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,7 +192,8 @@
     <MESSAGE value="add Student package" />
     <MESSAGE value="complete Student task" />
     <MESSAGE value="complete Point task" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete Point task" />
+    <MESSAGE value="complete Clock task" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete Clock task" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
