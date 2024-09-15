@@ -41,7 +41,7 @@ public class Car implements Drivable{
 
     @Override
     public void start() {
-        getPosition();
+        System.out.println("Car start from " + this.position);
     }
 
     @Override
@@ -52,6 +52,7 @@ public class Car implements Drivable{
     @Override
     public double distance(double distance) {
         this.position += distance;
-        return position;
+        System.out.println("Car completed " + distance);
+        return distance;
     }
 }

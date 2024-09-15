@@ -9,11 +9,7 @@ public class Main {
         car_1.setPosition(0);
 
         car_1.start();
-        car_1.distance(20);
-        car_1.stop();
-
-        car_1.start();
-        car_1.distance(20);
+        car_1.distance(20.8);
         car_1.stop();
     }
 }
