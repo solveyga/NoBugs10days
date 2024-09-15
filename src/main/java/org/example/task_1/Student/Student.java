@@ -3,9 +3,9 @@ package org.example.task_1.Student;
 import org.example.task_1.Printable;
 
 public class Student implements Printable {
-    public String studentName;
-    public int studentGradeBookNumber;
-    public double studentAverageScore;
+    private String studentName;
+    private int studentGradeBookNumber;
+    private double studentAverageScore;
 
     public void setStudentName(String setStudentName){
         this.studentName = setStudentName;

@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9076f1a-0ffe-459b-ba70-52b915a87479" name="Changes" comment="add Student package">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task_1/Student/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task_1/Student/Student.java" afterDir="false" />
+    <list default="true" id="b9076f1a-0ffe-459b-ba70-52b915a87479" name="Changes" comment="complete Student task">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task_1/Point/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task_1/Point/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task_1/Point/Point.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task_1/Student/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task_1/Student/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +55,7 @@
       <recent name="org.example.task_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.org.example.task_1.Student.Main">
+  <component name="RunManager" selected="Application.org.example.task_1.Point.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="homework1.main" />
@@ -93,6 +95,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.example.task_1.Point.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.task_1.Point.Main" />
+      <module name="homework1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.task_1.Point.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="org.example.task_1.Student.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.task_1.Student.Main" />
       <module name="homework1.main" />
@@ -108,6 +123,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.task_1.Point.Main" />
         <item itemvalue="Application.org.example.task_1.Student.Main" />
         <item itemvalue="Application.org.example.task_1.Book.Main" />
         <item itemvalue="Application.org.example.task_1.BankAccount.Main" />
@@ -138,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726400157141</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="complete Student task">
+      <created>1726401068497</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726401068497</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,7 +178,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add Book task" />
     <MESSAGE value="add Student package" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Student package" />
+    <MESSAGE value="complete Student task" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete Student task" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
